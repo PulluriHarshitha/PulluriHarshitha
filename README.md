@@ -33,7 +33,8 @@ Email Me 👉 ✉️ **pulluriharshitha90@gmail.com** For Collaboration/Project 
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?username=PulluriHarshitha&cache_seconds=1800)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PulluriHarshitha&limit=5&theme=dark&combine_all_yearly_contributions=true)
