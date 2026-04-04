@@ -27,7 +27,7 @@ Email Me 👉 ✉️ **pulluriharshitha90@gmail.com** For Collaboration/Project 
 ![](https://github-readme-stats.vercel.app/api?username=PulluriHarshitha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PulluriHarshitha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PulluriHarshitha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PulluriHarshitha&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PulluriHarshitha&theme=dark)  
 
 
 ## 🏆 GitHub Trophies
