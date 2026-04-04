@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm PULLURI HARSHITHA
+💫 Hi 👋, I'm PULLURI HARSHITHA
 **A passionate Aspiring Software Developer || Python Programming || java with DSA || Frontend Developer**
 
 Email Me 👉 ✉️ **pulluriharshitha90@gmail.com** For Collaboration/Project or Anything Else. 😊😊
