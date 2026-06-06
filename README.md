@@ -28,8 +28,8 @@ Email Me 👉 ✉️ **pulluriharshitha90@gmail.com** For Collaboration/Project 
 ![PulluriHarshitha's Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=PulluriHarshitha&theme=dark&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PulluriHarshitha&theme=dark)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PulluriHarshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.onrender.com/?username=PulluriHarshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
