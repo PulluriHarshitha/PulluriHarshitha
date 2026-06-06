@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **pulluriharshitha90@gmail.com** For Collaboration/Project 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PulluriHarshitha&theme=dark)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.onrender.com/?username=PulluriHarshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=PulluriHarshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1" alt="GitHub Trophies" />
 
 
 ### ✍️ Random Dev Quote
