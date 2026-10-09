@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **pulluriharshitha90@gmail.com** For Collaboration/Project 
 ## 📊 GitHub Stats:
 ![PulluriHarshitha's GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=PulluriHarshitha&theme=dark&show_icons=true&include_all_commits=true&count_private=false&invalidate=true)
 ![PulluriHarshitha's Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=PulluriHarshitha&theme=dark&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PulluriHarshitha&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PulluriHarshitha&theme=dark&invalidate=true)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=PulluriHarshitha&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1" alt="GitHub Trophies" />
